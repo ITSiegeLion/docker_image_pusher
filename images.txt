@@ -1,2 +1,2 @@
 vaultwarden/server:1.31.0-alpine
-justsong/one-api:v0.6.7
+justsong/one-api:v0.6.7 
