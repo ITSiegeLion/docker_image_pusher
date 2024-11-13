@@ -142,6 +142,8 @@ jobs:
             echo "===================="测试start===================="
             echo $image
             echo $new_image
+            echo $ALIYUN_REGISTRY
+            echo $ALIYUN_NAME_SPACE
             echo "===================="测试end===================="
             echo "docker tag $image $new_image"
             docker tag $image $new_image
