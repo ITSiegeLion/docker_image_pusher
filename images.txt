@@ -1,1 +1,1 @@
-registry.cn-shenzhen.aliyuncs.com/lsf_worksapce/alist:v3.39.1
+alist:v3.39.1
