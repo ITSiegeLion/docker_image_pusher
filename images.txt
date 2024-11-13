@@ -1,1 +1,2 @@
 xhofe/alist:v3.39.1
+registry.cn-shenzhen.aliyuncs.com/lsf_worksapce/alist:v3.39.1
