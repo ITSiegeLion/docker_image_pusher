@@ -2,4 +2,11 @@
 #nginx:1.22.0-alpine-perl
 #chigusa/bililive-go:v0.7.33
 #fogforest/yesplaymusic:0.4.8-2
-homeassistant/home-assistant:2024.11.1
+#homeassistant/home-assistant:2024.11.1
+mysql:5.7
+redis:7
+rabbitmq:3.9.11-management
+elasticsearch:7.17.3
+logstash:7.17.3
+kibana:7.17.3
+mongo:4
