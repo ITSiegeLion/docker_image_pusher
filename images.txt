@@ -10,3 +10,4 @@ elasticsearch:7.17.3
 logstash:7.17.3
 kibana:7.17.3
 mongo:4
+flink:1.16.0
